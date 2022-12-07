@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Albionii
+- 👋 Hi, I’m @Albii
 - 👀 I’m interested in Mathematics and Programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me : Albii.java22@gmail.com
